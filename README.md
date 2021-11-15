@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emjaidi
 - 👀 I’m interested in getting acquainted with all things tech
-- 🌱 I’m currently learning C++; working from a terminal; a keyboard centric workflow
-- 💞️ I’m looking to collaborate on large-scale system projects, though not explicitly
+- 🌱 I’m currently learning C++; computer navigation via CLI;
+- 💞️ I’m looking to work on projects that can involve data analysis, bioinformatics, ML 
 -    I'm familiar with the languags C++; Python
 - 📫 How to reach me ...
     -Email: madelas797@protonmail.ch
